@@ -19,6 +19,25 @@ This video explores the uncanny valley phenomenon: why things that look almost h
 
 ---
 
+- [The reason why the Uncanny Valley is so upsetting to humans...](#the-reason-why-the-uncanny-valley-is-so-upsetting-to-humans)
+  - [An Uncanny Valley Experiment and the Future of the Valley](#an-uncanny-valley-experiment-and-the-future-of-the-valley)
+  - [Potential Additions for a More Comprehensive Podcast](#potential-additions-for-a-more-comprehensive-podcast)
+  - [A Comprehensive Content Guide for a Podcast on "The Uncanny Valley"](#a-comprehensive-content-guide-for-a-podcast-on-the-uncanny-valley)
+  - [Podcast Questions on the Uncanny Valley](#podcast-questions-on-the-uncanny-valley)
+  - [Understanding the Uncanny Valley](#understanding-the-uncanny-valley)
+  - [Examining Personal Reactions to the Uncanny Valley](#examining-personal-reactions-to-the-uncanny-valley)
+  - [Designing For and Against the Uncanny Valley](#designing-for-and-against-the-uncanny-valley)
+  - [Ethical and Philosophical Implications of Increasingly Human-Like Robots](#ethical-and-philosophical-implications-of-increasingly-human-like-robots)
+  - [Navigating the Future Landscape of Robotics, AI, and the Uncanny Valley](#navigating-the-future-landscape-of-robotics-ai-and-the-uncanny-valley)
+  - [Debate Guide: Navigating the Uncanny Valley with Caution](#debate-guide-navigating-the-uncanny-valley-with-caution)
+  - [Debate Guide: Embracing the Uncanny Valley](#debate-guide-embracing-the-uncanny-valley)
+  - [Pros and Cons of the Uncanny Valley](#pros-and-cons-of-the-uncanny-valley)
+  - [Here is a list of individuals, groups, and fields involved with the uncanny valley:](#here-is-a-list-of-individuals-groups-and-fields-involved-with-the-uncanny-valley)
+  - [Uncanny Valley: A Comprehensive Briefing](#uncanny-valley-a-comprehensive-briefing)
+
+
+---
+
 ## An Uncanny Valley Experiment and the Future of the Valley
 
 A Proposed Experiment
